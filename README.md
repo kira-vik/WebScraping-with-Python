@@ -106,7 +106,7 @@ Finally, you can run the code cell by cell since it has been written in Jupyter 
 
 Victor Weke - @[kira-vik](https://github.com/kira-vik)
 
-Project Link: [JSON data to Pandas Dataframe](https://github.com/kira-vik/JSON-data-to-Pandas-Dataframe)
+Project Link: [WebScraping-with-Python](https://github.com/kira-vik/WebScraping-with-Python)
 
 <p align="right">
      [<a href="#readme-top">back to top</a>]
