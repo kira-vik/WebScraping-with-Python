@@ -25,9 +25,9 @@
 <!--ABOUT THE PROJECT-->
 ## About the Project
 
-![JSONtoPandasDF](https://github.com/kira-vik/JSON-data-to-Pandas-Dataframe/assets/35596661/e08ba223-6ba2-4158-bdff-841f05e274a5)
+![web_scraping](https://github.com/kira-vik/WebScraping-with-Python/assets/35596661/8111a3f6-9d79-4df9-9aed-6a690b5af3de)
 
-This project gets us started on how to scrape multiple web pages using BeautifulSoup library, and storing the scraped data into a Pandas Dataframe. The generated dataframe is then exported into an external file, which in this case is a CSV file. The web scraping playground used for this project is [books.toscrape.com](https://books.toscrape.com/), where we retrieve details of the books in the catalogue such as the book title, the price, and the star rating. This project helps build skill and understand the mechanism of how web scraping works.
+This project gets us started on how to scrape multiple web pages using the BeautifulSoup library, and storing the scraped data in a Pandas Dataframe. The generated dataframe is then exported into an external file, which in this case is a CSV file. The web scraping playground used for this project is [books.toscrape.com](https://books.toscrape.com/), where we retrieve details of the books in the catalog such as the book title, the price, and the star rating. This project helps build skill and understand the mechanism of how web scraping works.
 
 This project has been developed in VS Code, but it is okay to use your code editor of choice.
 
